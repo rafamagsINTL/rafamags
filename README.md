@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafamagsINTL 
+- 👋 Hi, I’m @rafamags
 - 👀 I’m studying computer engineering at Inatel
 - 🌱 I’m currently learning c++, python, html/css and java
 - 💞️ I’m looking to collaborate on ...
